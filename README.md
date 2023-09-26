@@ -1,7 +1,7 @@
 
 ### <p align="center"> Hi! I'm Seongmin 👋 </p>
 
-## <p align="center">Backend Developer</p>
+### <p align="center">Backend Developer</p>
 
 ### <p align="center">🚀 Follow Me 🚀</p>
 <p align="center"><a href="https://velog.io/@bimilless/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=plastic&logo=velog&logoColor=white&link=https://velog.io/@bimilless"/></a>  <a href="mailto:bimils7856@gmail.com"><img src="https://img.shields.io/badge/Gmail-F05032?style=plastic&logo=Gmail&logoColor=white&link=mailto:bimils7856@gmail.com"/></a></p>
